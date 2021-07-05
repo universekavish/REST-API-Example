@@ -1,0 +1,23 @@
+{
+  "name": "restapidemo",
+  "version": "1.0.0",
+  "description": "hands-on experience for creation of rest api",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/universekavish/REST-API-Example.git"
+  },
+  "author": "kavish_boyal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/universekavish/REST-API-Example/issues"
+  },
+  "homepage": "https://github.com/universekavish/REST-API-Example#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.4.0"
+  }
+}
