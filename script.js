@@ -32,7 +32,7 @@ app.get('/api/customers/:id', (req,res) => {
 });
 
 // CREATE Request Handler
-// CREATW New Customer Information
+// CREATE New Customer Information
 app.post('/api/customers', (req,res) => {
 
     const { error } = validateCustomer(req.body);
